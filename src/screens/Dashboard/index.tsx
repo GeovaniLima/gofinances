@@ -57,6 +57,17 @@ export function Dashboard() {
         icon: 'shopping-bag'
       },
       date:'10/04/2020'
+    },
+    {
+      id: '4',
+      type: 'positive',
+      title: 'Salario do mes',
+      amount:'R$ 1.200,00',
+      category: {
+        name: 'Casa',
+        icon: 'shopping-bag'
+      },
+      date:'10/04/2020'
     }
   ];
 
